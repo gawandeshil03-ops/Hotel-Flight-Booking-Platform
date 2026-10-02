@@ -184,15 +184,6 @@ The application follows RESTful design principles with clear separation of conce
 
 ---
 
-## License
-
-This project is licensed under the MIT License.# SkyStay
-
-A full-stack hotel and flight booking platform built with **Java Spring Boot**, **React**, **TypeScript**, and **PostgreSQL**.
-
-SkyStay enables users to search, book, and manage hotels and flights through a secure, role-based system. The project focuses on clean architecture, secure authentication, RESTful API design, and real-world booking workflows.
-
----
 
 ## Features
 
@@ -372,6 +363,3 @@ The application follows RESTful design principles with clear separation of conce
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
